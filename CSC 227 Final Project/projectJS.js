@@ -57,7 +57,7 @@ function myWindow() {
             myText +=(" <p c>" + writingSkills + "</p>");
             myText +=(" <h3>" + "Work Ethic: " + "</h3>");
             myText +=(" <p>" + workEthic + "</p>");
-            myText +=(" <h3>" + "JavScript Skills: " + "</h3>");
+            myText +=(" <h3>" + "Cloud App Development Skills: " + "</h3>");
             myText +=(" <p>" + javaSkills + "</p>");
             myText +=(" <h3>" + "Code Experience: " + "</h3>");
             myText +=(" <p>" + codeExperience + "</p>");
