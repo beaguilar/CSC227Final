@@ -1,8 +1,0 @@
-{
-  "name": "finalProject",
-  "version": "1.0.0",
-  "description": "A simple hello world Express/NodeJS application",
-  "main": "finalProject.html",
-  "scripts": {
-    "start": "projectJS.js"
-  },
